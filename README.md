@@ -1,4 +1,4 @@
-# HR-Dashboard
+# HR-Dashboard :- https://public.tableau.com/app/profile/rohit.raj1634/viz/HRANALYTICSDASHBOARD_17079221699970/HRANALYSTICSDASHBOARD
 HR Analytics Dashboard Using Tableau
 
 I’m thrilled to unveil my latest project comprehensive Tableau dashboard that provides deep insights into employee attrition and satisfaction trends. This project gave me the chance to dive into key areas that are vital for improving workplace culture and driving meaningful, strategic decisions.
